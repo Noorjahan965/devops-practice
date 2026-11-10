@@ -29,6 +29,8 @@ public class Course {
 	public String getAuthor() {
 		return author;
 	}
+	//setters
+	public long setId(){}
 	 
 	
 	
